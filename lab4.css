@@ -1,0 +1,81 @@
+body{
+    background-image: url("addressbg.jpg");
+    background-size: 100%;
+    display: block;
+    font-family: 'Maven Pro', sans-serif;
+    color: white;
+}
+
+section{
+    background-color: transparent;
+}
+
+.form{
+    text-align: center;
+    margin: 0 auto;
+    padding: 5px;
+    border-color: black;
+    border-width: 3px;
+    background-color: rgba(179,178,176, 0.6);
+    width: 60%;
+    border-radius: 5px;
+}
+
+div{
+    display: block;
+}
+
+i{
+    padding: 5px;
+    background-color: white;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 50%;
+    margin-left: 95%;
+}
+
+.contactList{
+    display: inline-block;
+    align-content: space-around;
+    width: 25%;
+    background-color: rgba(255,255,255,0.8);
+    border-radius: 5px;
+    color: black;
+    padding: 5px;
+    margin: 20px;
+}
+p{
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+input{
+    display: block;
+    width: 80%;
+    padding: 10px;
+    background: #fff;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+select{
+    margin: 0 auto;
+    margin-bottom: 10px;
+    width: 87%;
+    padding: 10px;
+    -webkit-appearance: none;
+    background: #fff;
+    display: block;
+}
+
+button{
+    display: block;
+    width: 87%;
+    padding: 10px;
+    background: #fff;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
